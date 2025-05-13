@@ -1,0 +1,28 @@
+[
+    {
+      "skill": "System Design",
+      "course_name": "Intro to System Design",
+      "url": "https://example.com/system-design"
+    },
+    {
+      "skill": "Team Leadership",
+      "course_name": "Leadership Essentials",
+      "url": "https://example.com/leadership-essentials"
+    },
+    {
+      "skill": "Kubernetes",
+      "course_name": "Kubernetes Fundamentals",
+      "url": "https://example.com/k8s-fundamentals"
+    },
+    {
+        "skill": "Kubernetes",
+        "course_name": "Kubernetes Fundamentals 123",
+        "url": "https://example.com/k8s-fundamentals"
+    },
+    {
+      "skill": "Python",
+      "course_name": "Advanced Python Programming",
+      "url": "https://example.com/advanced-python"
+    }
+  ]
+  

@@ -1,0 +1,8 @@
+{
+    "user_id": "user123",
+    "name": "John Doe",
+    "role": "Software Engineer",
+    "goals": ["Become Tech Lead", "Improve Architecture Skills"],
+    "leaves": ["2024-12-01", "2025-01-15"]
+  }
+  
